@@ -1,0 +1,7 @@
+Final Decision: PCI Recommended
+Visual PCI Prob: 0.57
+{
+  "avg_flow": 0.2904917597770691,
+  "avg_contrast": 59.98655312927051,
+  "avg_area": 28376.830769230768
+}
